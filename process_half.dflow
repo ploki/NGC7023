@@ -2,6 +2,42 @@
     "baseDirectory": ".",
     "connections": [
         {
+            "inPortIdx": 2,
+            "inPortUuid": "{4820e30d-2f5d-432f-9fcc-cd789443c0b5}",
+            "outPortIdx": 0,
+            "outPortUuid": "{db493374-9f7f-4fc0-b696-e1a03a7eb5e5}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{db493374-9f7f-4fc0-b696-e1a03a7eb5e5}",
+            "outPortIdx": 2,
+            "outPortUuid": "{ab2311a5-d8b7-40c5-8c15-e71a927e2f0c}"
+        },
+        {
+            "inPortIdx": 1,
+            "inPortUuid": "{4820e30d-2f5d-432f-9fcc-cd789443c0b5}",
+            "outPortIdx": 0,
+            "outPortUuid": "{5922f37a-3108-4424-ace5-4d49cc5857a1}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{5922f37a-3108-4424-ace5-4d49cc5857a1}",
+            "outPortIdx": 1,
+            "outPortUuid": "{ab2311a5-d8b7-40c5-8c15-e71a927e2f0c}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{4820e30d-2f5d-432f-9fcc-cd789443c0b5}",
+            "outPortIdx": 0,
+            "outPortUuid": "{7c851304-d6c0-4996-986a-1361b405f87f}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{7c851304-d6c0-4996-986a-1361b405f87f}",
+            "outPortIdx": 0,
+            "outPortUuid": "{ab2311a5-d8b7-40c5-8c15-e71a927e2f0c}"
+        },
+        {
             "inPortIdx": 0,
             "inPortUuid": "{be9eeb19-1296-4a9c-9894-53f9eaba243c}",
             "outPortIdx": 0,
@@ -90,36 +126,6 @@
             "inPortUuid": "{bc3df7d3-02de-4118-804e-75cfa1c3ada9}",
             "outPortIdx": 0,
             "outPortUuid": "{a847f20a-e6ed-48b6-a36e-01565503bc11}"
-        },
-        {
-            "inPortIdx": 0,
-            "inPortUuid": "{7c851304-d6c0-4996-986a-1361b405f87f}",
-            "outPortIdx": 0,
-            "outPortUuid": "{ab2311a5-d8b7-40c5-8c15-e71a927e2f0c}"
-        },
-        {
-            "inPortIdx": 1,
-            "inPortUuid": "{181f5c35-f7c1-4c70-867d-49df7ad32253}",
-            "outPortIdx": 0,
-            "outPortUuid": "{ab2311a5-d8b7-40c5-8c15-e71a927e2f0c}"
-        },
-        {
-            "inPortIdx": 0,
-            "inPortUuid": "{5922f37a-3108-4424-ace5-4d49cc5857a1}",
-            "outPortIdx": 1,
-            "outPortUuid": "{ab2311a5-d8b7-40c5-8c15-e71a927e2f0c}"
-        },
-        {
-            "inPortIdx": 1,
-            "inPortUuid": "{16ea795a-04cd-495d-bbb7-f6e4b4b5b950}",
-            "outPortIdx": 1,
-            "outPortUuid": "{ab2311a5-d8b7-40c5-8c15-e71a927e2f0c}"
-        },
-        {
-            "inPortIdx": 0,
-            "inPortUuid": "{db493374-9f7f-4fc0-b696-e1a03a7eb5e5}",
-            "outPortIdx": 2,
-            "outPortUuid": "{ab2311a5-d8b7-40c5-8c15-e71a927e2f0c}"
         },
         {
             "inPortIdx": 3,
@@ -230,18 +236,6 @@
             "outPortUuid": "{ab2311a5-d8b7-40c5-8c15-e71a927e2f0c}"
         },
         {
-            "inPortIdx": 1,
-            "inPortUuid": "{4820e30d-2f5d-432f-9fcc-cd789443c0b5}",
-            "outPortIdx": 0,
-            "outPortUuid": "{16ea795a-04cd-495d-bbb7-f6e4b4b5b950}"
-        },
-        {
-            "inPortIdx": 0,
-            "inPortUuid": "{4820e30d-2f5d-432f-9fcc-cd789443c0b5}",
-            "outPortIdx": 0,
-            "outPortUuid": "{181f5c35-f7c1-4c70-867d-49df7ad32253}"
-        },
-        {
             "inPortIdx": 0,
             "inPortUuid": "{b2a0eba1-3896-4f98-bbfa-a3fd673e5b02}",
             "outPortIdx": 0,
@@ -252,18 +246,6 @@
             "inPortUuid": "{ab2311a5-d8b7-40c5-8c15-e71a927e2f0c}",
             "outPortIdx": 0,
             "outPortUuid": "{b319eca3-1798-40ec-81a4-f4c6dec68c21}"
-        },
-        {
-            "inPortIdx": 0,
-            "inPortUuid": "{181f5c35-f7c1-4c70-867d-49df7ad32253}",
-            "outPortIdx": 0,
-            "outPortUuid": "{7c851304-d6c0-4996-986a-1361b405f87f}"
-        },
-        {
-            "inPortIdx": 0,
-            "inPortUuid": "{16ea795a-04cd-495d-bbb7-f6e4b4b5b950}",
-            "outPortIdx": 0,
-            "outPortUuid": "{5922f37a-3108-4424-ace5-4d49cc5857a1}"
         },
         {
             "inPortIdx": 1,
@@ -294,24 +276,6 @@
             "inPortUuid": "{91707114-bb0b-4e43-901a-03841053342d}",
             "outPortIdx": 0,
             "outPortUuid": "{c4044baa-0655-4b99-9ef5-369a1b1a595c}"
-        },
-        {
-            "inPortIdx": 0,
-            "inPortUuid": "{ca5a6706-1baa-4fba-b9fc-af3a3f950bb4}",
-            "outPortIdx": 0,
-            "outPortUuid": "{db493374-9f7f-4fc0-b696-e1a03a7eb5e5}"
-        },
-        {
-            "inPortIdx": 1,
-            "inPortUuid": "{ca5a6706-1baa-4fba-b9fc-af3a3f950bb4}",
-            "outPortIdx": 2,
-            "outPortUuid": "{ab2311a5-d8b7-40c5-8c15-e71a927e2f0c}"
-        },
-        {
-            "inPortIdx": 2,
-            "inPortUuid": "{4820e30d-2f5d-432f-9fcc-cd789443c0b5}",
-            "outPortIdx": 0,
-            "outPortUuid": "{ca5a6706-1baa-4fba-b9fc-af3a3f950bb4}"
         },
         {
             "inPortIdx": 0,
@@ -456,7 +420,7 @@
                     "scale": "Logarithmic",
                     "type": "slider",
                     "unit": "%",
-                    "value": 0.20000000000000001
+                    "value": 0.40000000000000002
                 },
                 {
                     "max": 1,
@@ -471,8 +435,8 @@
             "tags": {
             },
             "uuid": "{be9eeb19-1296-4a9c-9894-53f9eaba243c}",
-            "x": 6916.8580405173088,
-            "y": -119.6608361017345
+            "x": 6823.3719841970587,
+            "y": -6.0111205751560703
         },
         {
             "classIdentifier": "Unsharp Mask",
@@ -507,7 +471,7 @@
                     "scale": "Logarithmic",
                     "type": "slider",
                     "unit": "%",
-                    "value": 0.20000000000000001
+                    "value": 0.29999999999999999
                 },
                 {
                     "max": 1,
@@ -522,8 +486,8 @@
             "tags": {
             },
             "uuid": "{cbe0e191-d778-479c-b017-474898a64f3f}",
-            "x": 6592.2475623034943,
-            "y": -175.45125807842751
+            "x": 6533.589644612357,
+            "y": -3.1436248607120376
         },
         {
             "classIdentifier": "Selective Lab Filter",
@@ -571,8 +535,8 @@
             "tags": {
             },
             "uuid": "{b818cd30-88dd-4579-9735-f83bcccdd667}",
-            "x": 4356.1417987089126,
-            "y": -553.15882755282007
+            "x": 4449.6278550291618,
+            "y": -327.6924564275115
         },
         {
             "classIdentifier": "Save",
@@ -599,12 +563,12 @@
             ],
             "tags": {
                 "{bea5a717-4a7a-4a46-9240-fbf68209c07d}:0": {
-                    "Name": "processing_half"
+                    "Name": "processing_half_4"
                 }
             },
             "uuid": "{4294cdae-eb50-4743-91bc-f2c74b70d19c}",
-            "x": 7690.0226119538484,
-            "y": -54.13977469096713
+            "x": 7837.6544384505323,
+            "y": 279.0541183478723
         },
         {
             "classIdentifier": "Crop",
@@ -621,8 +585,8 @@
                 }
             },
             "uuid": "{33d21088-bde1-4f19-96f3-c1c6941cc2ef}",
-            "x": 4895.9677745775907,
-            "y": 108.49429220711431
+            "x": 5447.71881285985,
+            "y": 16.841295814712439
         },
         {
             "classIdentifier": "iGamma",
@@ -659,8 +623,8 @@
             "tags": {
             },
             "uuid": "{13996c39-0516-4b0b-8494-b98dd4daab5b}",
-            "x": 5419.7533434754041,
-            "y": -318.45847796856918
+            "x": 5122.0926121148495,
+            "y": -81.147719617165535
         },
         {
             "classIdentifier": "Images",
@@ -847,7 +811,7 @@
                     "scale": "Logarithmic",
                     "type": "slider",
                     "unit": "EV",
-                    "value": 1307.1497769859493
+                    "value": 2614.3272049057209
                 },
                 {
                     "max": 16,
@@ -1027,8 +991,8 @@
             "tags": {
             },
             "uuid": "{ab2311a5-d8b7-40c5-8c15-e71a927e2f0c}",
-            "x": 1817.2828843695615,
-            "y": -594.16098215167358
+            "x": 1800.0455061442153,
+            "y": -654.49180594038489
         },
         {
             "classIdentifier": "Threshold",
@@ -1054,7 +1018,7 @@
                     "scale": "Logarithmic",
                     "type": "slider",
                     "unit": "EV",
-                    "value": 0.00044116471310405619
+                    "value": 0.0016847349194532928
                 },
                 {
                     "currentValue": "Luminosity",
@@ -1067,7 +1031,7 @@
                     "type": "dropdown"
                 },
                 {
-                    "currentValue": "Yes",
+                    "currentValue": "No",
                     "name": "mask",
                     "type": "dropdown"
                 }
@@ -1075,40 +1039,8 @@
             "tags": {
             },
             "uuid": "{7c851304-d6c0-4996-986a-1361b405f87f}",
-            "x": 2332.9605437217419,
-            "y": -1010.5757775300858
-        },
-        {
-            "classIdentifier": "Blend",
-            "enabled": true,
-            "name": "Arithmetic",
-            "outputsEnabled": [
-                true,
-                true,
-                true
-            ],
-            "parameters": [
-                {
-                    "currentValue": "Multiply",
-                    "name": "mode1",
-                    "type": "dropdown"
-                },
-                {
-                    "currentValue": "Multiply",
-                    "name": "mode2",
-                    "type": "dropdown"
-                },
-                {
-                    "currentValue": "No",
-                    "name": "outputHDR",
-                    "type": "dropdown"
-                }
-            ],
-            "tags": {
-            },
-            "uuid": "{181f5c35-f7c1-4c70-867d-49df7ad32253}",
-            "x": 2636.7358064274576,
-            "y": -1086.5614355292014
+            "x": 2202.2437588462008,
+            "y": -652.90017935415369
         },
         {
             "classIdentifier": "Threshold",
@@ -1134,7 +1066,7 @@
                     "scale": "Logarithmic",
                     "type": "slider",
                     "unit": "EV",
-                    "value": 0.00021724614186656148
+                    "value": 0.00082598473413814891
                 },
                 {
                     "currentValue": "Luminosity",
@@ -1147,7 +1079,7 @@
                     "type": "dropdown"
                 },
                 {
-                    "currentValue": "Yes",
+                    "currentValue": "No",
                     "name": "mask",
                     "type": "dropdown"
                 }
@@ -1155,40 +1087,8 @@
             "tags": {
             },
             "uuid": "{5922f37a-3108-4424-ace5-4d49cc5857a1}",
-            "x": 2310.0309508894106,
-            "y": -703.78786759092566
-        },
-        {
-            "classIdentifier": "Blend",
-            "enabled": true,
-            "name": "Arithmetic",
-            "outputsEnabled": [
-                true,
-                true,
-                true
-            ],
-            "parameters": [
-                {
-                    "currentValue": "Multiply",
-                    "name": "mode1",
-                    "type": "dropdown"
-                },
-                {
-                    "currentValue": "Multiply",
-                    "name": "mode2",
-                    "type": "dropdown"
-                },
-                {
-                    "currentValue": "No",
-                    "name": "outputHDR",
-                    "type": "dropdown"
-                }
-            ],
-            "tags": {
-            },
-            "uuid": "{16ea795a-04cd-495d-bbb7-f6e4b4b5b950}",
-            "x": 2631.5473584143015,
-            "y": -784.12512714946229
+            "x": 2519.7523859644552,
+            "y": -627.65611376231357
         },
         {
             "classIdentifier": "21-way Backward DWT",
@@ -1200,6 +1100,195 @@
                 true
             ],
             "parameters": [
+                {
+                    "max": 2,
+                    "min": 0.5,
+                    "name": "multiplier:1",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                },
+                {
+                    "max": 2,
+                    "min": 0.5,
+                    "name": "multiplier:2",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                },
+                {
+                    "max": 2,
+                    "min": 0.5,
+                    "name": "multiplier:3",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                },
+                {
+                    "max": 2,
+                    "min": 0.5,
+                    "name": "multiplier:4",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                },
+                {
+                    "max": 2,
+                    "min": 0.5,
+                    "name": "multiplier:5",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                },
+                {
+                    "max": 2,
+                    "min": 0.5,
+                    "name": "multiplier:6",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                },
+                {
+                    "max": 2,
+                    "min": 0.5,
+                    "name": "multiplier:7",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                },
+                {
+                    "max": 2,
+                    "min": 0.5,
+                    "name": "multiplier:8",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                },
+                {
+                    "max": 2,
+                    "min": 0.5,
+                    "name": "multiplier:9",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                },
+                {
+                    "max": 2,
+                    "min": 0.5,
+                    "name": "multiplier:10",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                },
+                {
+                    "max": 2,
+                    "min": 0.5,
+                    "name": "multiplier:11",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                },
+                {
+                    "max": 2,
+                    "min": 0.5,
+                    "name": "multiplier:12",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                },
+                {
+                    "max": 2,
+                    "min": 0.5,
+                    "name": "multiplier:13",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                },
+                {
+                    "max": 2,
+                    "min": 0.5,
+                    "name": "multiplier:14",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                },
+                {
+                    "max": 2,
+                    "min": 0.5,
+                    "name": "multiplier:15",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                },
+                {
+                    "max": 2,
+                    "min": 0.5,
+                    "name": "multiplier:16",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                },
+                {
+                    "max": 2,
+                    "min": 0.5,
+                    "name": "multiplier:17",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                },
+                {
+                    "max": 2,
+                    "min": 0.5,
+                    "name": "multiplier:18",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                },
+                {
+                    "max": 2,
+                    "min": 0.5,
+                    "name": "multiplier:19",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                },
+                {
+                    "max": 2,
+                    "min": 0.5,
+                    "name": "multiplier:20",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                },
+                {
+                    "max": 2,
+                    "min": 0.00390625,
+                    "name": "multiplier:21",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                },
                 {
                     "max": 4,
                     "min": 0.0625,
@@ -1287,8 +1376,8 @@
             "tags": {
             },
             "uuid": "{91707114-bb0b-4e43-901a-03841053342d}",
-            "x": 4699.4063727178709,
-            "y": -309.68819044349669
+            "x": 5115.5109763393757,
+            "y": -295.02371102071237
         },
         {
             "classIdentifier": "Desaturate Shadows",
@@ -1329,8 +1418,8 @@
             "tags": {
             },
             "uuid": "{c4044baa-0655-4b99-9ef5-369a1b1a595c}",
-            "x": 4401.7490403723305,
-            "y": -307.29870242639663
+            "x": 4788.5246851482671,
+            "y": -312.79788220994072
         },
         {
             "classIdentifier": "Threshold",
@@ -1356,7 +1445,7 @@
                     "scale": "Logarithmic",
                     "type": "slider",
                     "unit": "EV",
-                    "value": 9.4612004876488693e-05
+                    "value": 0.00020430241796791257
                 },
                 {
                     "currentValue": "Luminosity",
@@ -1369,7 +1458,7 @@
                     "type": "dropdown"
                 },
                 {
-                    "currentValue": "Yes",
+                    "currentValue": "No",
                     "name": "mask",
                     "type": "dropdown"
                 }
@@ -1377,40 +1466,8 @@
             "tags": {
             },
             "uuid": "{db493374-9f7f-4fc0-b696-e1a03a7eb5e5}",
-            "x": 2256.1265933749251,
-            "y": -398.28284317921168
-        },
-        {
-            "classIdentifier": "Blend",
-            "enabled": true,
-            "name": "Arithmetic",
-            "outputsEnabled": [
-                true,
-                true,
-                true
-            ],
-            "parameters": [
-                {
-                    "currentValue": "Multiply",
-                    "name": "mode1",
-                    "type": "dropdown"
-                },
-                {
-                    "currentValue": "Multiply",
-                    "name": "mode2",
-                    "type": "dropdown"
-                },
-                {
-                    "currentValue": "No",
-                    "name": "outputHDR",
-                    "type": "dropdown"
-                }
-            ],
-            "tags": {
-            },
-            "uuid": "{ca5a6706-1baa-4fba-b9fc-af3a3f950bb4}",
-            "x": 2634.9810051795403,
-            "y": -494.21072309127794
+            "x": 2780.9437170712299,
+            "y": -600.65550128392772
         },
         {
             "classIdentifier": "Black Body",
@@ -1451,8 +1508,8 @@
             "tags": {
             },
             "uuid": "{ec1a8488-f0af-4aa8-9873-5b9fbcb04095}",
-            "x": 2487.8106375169787,
-            "y": 732.45186282225779
+            "x": 2206.2667931696587,
+            "y": 109.03335033890653
         },
         {
             "classIdentifier": "Exposure",
@@ -1475,8 +1532,8 @@
             "tags": {
             },
             "uuid": "{49bd04a9-96ff-40c2-8ef8-0e900de85b70}",
-            "x": 2560.4243997795302,
-            "y": 282.87796081411329
+            "x": 2564.7337443358665,
+            "y": -21.649054500334785
         },
         {
             "classIdentifier": "Blend",
@@ -1507,8 +1564,8 @@
             "tags": {
             },
             "uuid": "{034e67b3-c2c9-4a76-802c-54a0019f41c0}",
-            "x": 3583.331311651993,
-            "y": -655.1024204121486
+            "x": 3590.5135525792207,
+            "y": -617.75476759056539
         },
         {
             "classIdentifier": "Disk",
@@ -1553,8 +1610,8 @@
                 }
             },
             "uuid": "{3d8ccd2d-488c-4aca-84f7-6b43338e52ef}",
-            "x": 4930.2060027725374,
-            "y": 382.45296168850194
+            "x": 5458.1272619927722,
+            "y": 107.49397251129636
         },
         {
             "classIdentifier": "Blur",
@@ -1586,8 +1643,8 @@
             "tags": {
             },
             "uuid": "{ad1efe24-ef7a-4a5b-8fd3-bffa76b7a40c}",
-            "x": 5597.2542434639854,
-            "y": 413.49039184565066
+            "x": 5472.6061683703192,
+            "y": 499.64420845450826
         },
         {
             "classIdentifier": "Invert",
@@ -1601,8 +1658,8 @@
             "tags": {
             },
             "uuid": "{96b58ce3-683b-403e-b0e8-413fdf63eefc}",
-            "x": 5899.0355375126255,
-            "y": 476.33477522169557
+            "x": 5845.8767996050319,
+            "y": 498.331494355872
         },
         {
             "classIdentifier": "Blend",
@@ -1633,8 +1690,8 @@
             "tags": {
             },
             "uuid": "{4b805797-7663-498a-8f11-7c17639b8229}",
-            "x": 6224.5437926318145,
-            "y": -198.79345761810137
+            "x": 6213.5454330647262,
+            "y": 4.6761943730308815
         },
         {
             "classIdentifier": "Blend",
@@ -1665,8 +1722,8 @@
             "tags": {
             },
             "uuid": "{d61123e1-7493-4f9e-a031-08ed5c3ed3a9}",
-            "x": 6231.2129925002919,
-            "y": 217.26201110004101
+            "x": 6209.2162733661153,
+            "y": 358.40762554433991
         },
         {
             "classIdentifier": "Blend",
@@ -1697,8 +1754,8 @@
             "tags": {
             },
             "uuid": "{03591591-e141-489f-b0e1-e4fa4cfe9d3b}",
-            "x": 7369.4658546684541,
-            "y": 51.301537449832608
+            "x": 7462.9519109887042,
+            "y": 273.10178871944515
         },
         {
             "classIdentifier": "Disk",
@@ -1743,8 +1800,8 @@
                 }
             },
             "uuid": "{7ef3ae16-aa54-4736-aae7-9e039eee713f}",
-            "x": 5295.3446955717218,
-            "y": 331.79269345679239
+            "x": 5473.1515085729816,
+            "y": 302.46373461122386
         },
         {
             "classIdentifier": "iGamma",
@@ -1781,8 +1838,8 @@
             "tags": {
             },
             "uuid": "{f870f059-c299-4e42-b4bd-d415b55d409d}",
-            "x": 7237.3643957351333,
-            "y": -183.40299638315153
+            "x": 7120.0485603528587,
+            "y": -1.9300635261957098
         }
     ],
     "notes": "",
