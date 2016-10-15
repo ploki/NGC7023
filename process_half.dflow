@@ -1,0 +1,579 @@
+{
+    "baseDirectory": ".",
+    "connections": [
+        {
+            "inPortIdx": 1,
+            "inPortUuid": "{b319eca3-1798-40ec-81a4-f4c6dec68c21}",
+            "outPortIdx": 0,
+            "outPortUuid": "{c759b53c-f3ff-4246-8096-8ae7f28bac6c}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{c759b53c-f3ff-4246-8096-8ae7f28bac6c}",
+            "outPortIdx": 0,
+            "outPortUuid": "{ef445324-0975-45a4-94b0-db6dafcc16b5}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{bc3df7d3-02de-4118-804e-75cfa1c3ada9}",
+            "outPortIdx": 0,
+            "outPortUuid": "{a847f20a-e6ed-48b6-a36e-01565503bc11}"
+        },
+        {
+            "inPortIdx": 3,
+            "inPortUuid": "{bea5a717-4a7a-4a46-9240-fbf68209c07d}",
+            "outPortIdx": 0,
+            "outPortUuid": "{bc3df7d3-02de-4118-804e-75cfa1c3ada9}"
+        },
+        {
+            "inPortIdx": 2,
+            "inPortUuid": "{bea5a717-4a7a-4a46-9240-fbf68209c07d}",
+            "outPortIdx": 0,
+            "outPortUuid": "{bc3df7d3-02de-4118-804e-75cfa1c3ada9}"
+        },
+        {
+            "inPortIdx": 1,
+            "inPortUuid": "{bea5a717-4a7a-4a46-9240-fbf68209c07d}",
+            "outPortIdx": 0,
+            "outPortUuid": "{bc3df7d3-02de-4118-804e-75cfa1c3ada9}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{b4e036bc-ed64-420d-ac5a-6401ef4047ec}",
+            "outPortIdx": 0,
+            "outPortUuid": "{b319eca3-1798-40ec-81a4-f4c6dec68c21}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{bea5a717-4a7a-4a46-9240-fbf68209c07d}",
+            "outPortIdx": 0,
+            "outPortUuid": "{dd5994cb-e216-42d6-adc2-36424f8bea8e}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{dd5994cb-e216-42d6-adc2-36424f8bea8e}",
+            "outPortIdx": 0,
+            "outPortUuid": "{b2a0eba1-3896-4f98-bbfa-a3fd673e5b02}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{b2a0eba1-3896-4f98-bbfa-a3fd673e5b02}",
+            "outPortIdx": 0,
+            "outPortUuid": "{b319eca3-1798-40ec-81a4-f4c6dec68c21}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{b319eca3-1798-40ec-81a4-f4c6dec68c21}",
+            "outPortIdx": 0,
+            "outPortUuid": "{44070f8e-5d84-4ae5-8e29-44107429b5e7}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{ef445324-0975-45a4-94b0-db6dafcc16b5}",
+            "outPortIdx": 0,
+            "outPortUuid": "{44070f8e-5d84-4ae5-8e29-44107429b5e7}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{44070f8e-5d84-4ae5-8e29-44107429b5e7}",
+            "outPortIdx": 0,
+            "outPortUuid": "{64eb0b36-5d93-47cd-9d0b-e176849bf935}"
+        },
+        {
+            "inPortIdx": 3,
+            "inPortUuid": "{64eb0b36-5d93-47cd-9d0b-e176849bf935}",
+            "outPortIdx": 2,
+            "outPortUuid": "{0f7bc6f4-ec46-4506-8a09-05379c151706}"
+        },
+        {
+            "inPortIdx": 2,
+            "inPortUuid": "{64eb0b36-5d93-47cd-9d0b-e176849bf935}",
+            "outPortIdx": 1,
+            "outPortUuid": "{0f7bc6f4-ec46-4506-8a09-05379c151706}"
+        },
+        {
+            "inPortIdx": 1,
+            "inPortUuid": "{64eb0b36-5d93-47cd-9d0b-e176849bf935}",
+            "outPortIdx": 0,
+            "outPortUuid": "{0f7bc6f4-ec46-4506-8a09-05379c151706}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{0f7bc6f4-ec46-4506-8a09-05379c151706}",
+            "outPortIdx": 0,
+            "outPortUuid": "{07b77691-75a0-4b6b-90a2-89186aab91b8}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{13996c39-0516-4b0b-8494-b98dd4daab5b}",
+            "outPortIdx": 0,
+            "outPortUuid": "{bea5a717-4a7a-4a46-9240-fbf68209c07d}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{6ffe749c-7841-4927-a2fb-4112df0adffe}",
+            "outPortIdx": 0,
+            "outPortUuid": "{b4e036bc-ed64-420d-ac5a-6401ef4047ec}"
+        },
+        {
+            "inPortIdx": 0,
+            "inPortUuid": "{a847f20a-e6ed-48b6-a36e-01565503bc11}",
+            "outPortIdx": 0,
+            "outPortUuid": "{6ffe749c-7841-4927-a2fb-4112df0adffe}"
+        }
+    ],
+    "nodes": [
+        {
+            "classIdentifier": "Exposure",
+            "enabled": true,
+            "name": "Luminosité",
+            "outputsEnabled": [
+                true
+            ],
+            "parameters": [
+                {
+                    "max": 1,
+                    "min": 0.5,
+                    "name": "value",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 0.94288899415664196
+                }
+            ],
+            "tags": {
+            },
+            "uuid": "{c759b53c-f3ff-4246-8096-8ae7f28bac6c}",
+            "x": 1368.3603015119688,
+            "y": -133.99373872372394
+        },
+        {
+            "classIdentifier": "Enhance",
+            "enabled": true,
+            "name": "Améliorer",
+            "outputsEnabled": [
+                true
+            ],
+            "parameters": [
+            ],
+            "tags": {
+            },
+            "uuid": "{a847f20a-e6ed-48b6-a36e-01565503bc11}",
+            "x": 2014.2520131073761,
+            "y": -36.351183843642715
+        },
+        {
+            "classIdentifier": "Modulate",
+            "enabled": true,
+            "name": "Modulation",
+            "outputsEnabled": [
+                true
+            ],
+            "parameters": [
+                {
+                    "max": 180,
+                    "min": -180,
+                    "name": "hue",
+                    "scale": "Linear",
+                    "type": "slider",
+                    "unit": "",
+                    "value": 0
+                },
+                {
+                    "max": 2,
+                    "min": 0,
+                    "name": "saturation",
+                    "scale": "Linear",
+                    "type": "slider",
+                    "unit": "%",
+                    "value": 1.4019378957808803
+                },
+                {
+                    "max": 256,
+                    "min": 1,
+                    "name": "value",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 1
+                }
+            ],
+            "tags": {
+            },
+            "uuid": "{bc3df7d3-02de-4118-804e-75cfa1c3ada9}",
+            "x": 2011.7909327571801,
+            "y": 85.878633257138915
+        },
+        {
+            "classIdentifier": "HDR",
+            "enabled": true,
+            "name": "HDR",
+            "outputsEnabled": [
+                true
+            ],
+            "parameters": [
+                {
+                    "currentValue": "Yes",
+                    "name": "revert",
+                    "type": "dropdown"
+                }
+            ],
+            "tags": {
+            },
+            "uuid": "{6ffe749c-7841-4927-a2fb-4112df0adffe}",
+            "x": 2015.5900249269182,
+            "y": -184.10990263859486
+        },
+        {
+            "classIdentifier": "LRGB Compose",
+            "enabled": true,
+            "name": "Composition LRVB",
+            "outputsEnabled": [
+                true
+            ],
+            "parameters": [
+                {
+                    "currentValue": "No",
+                    "name": "outputHDR",
+                    "type": "dropdown"
+                }
+            ],
+            "tags": {
+            },
+            "uuid": "{bea5a717-4a7a-4a46-9240-fbf68209c07d}",
+            "x": 2606.3548825420157,
+            "y": -371.97250925261619
+        },
+        {
+            "classIdentifier": "Shape DR.",
+            "enabled": true,
+            "name": "Modelage dynamique",
+            "outputsEnabled": [
+                true
+            ],
+            "parameters": [
+                {
+                    "currentValue": "TanH",
+                    "name": "shape",
+                    "type": "dropdown"
+                },
+                {
+                    "max": 4096,
+                    "min": 1,
+                    "name": "dynamicRange",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 321.58260228744371
+                },
+                {
+                    "max": 16,
+                    "min": 1,
+                    "name": "exposure",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 8.1875540016462747
+                },
+                {
+                    "currentValue": "No",
+                    "name": "lab",
+                    "type": "dropdown"
+                }
+            ],
+            "tags": {
+            },
+            "uuid": "{dd5994cb-e216-42d6-adc2-36424f8bea8e}",
+            "x": 2173.3280212483401,
+            "y": -676.32084993359888
+        },
+        {
+            "classIdentifier": "Channel Mixer",
+            "enabled": true,
+            "name": "Mélangeur de canal",
+            "outputsEnabled": [
+                true
+            ],
+            "parameters": [
+                {
+                    "max": 1,
+                    "min": 0,
+                    "name": "red",
+                    "scale": "Linear",
+                    "type": "slider",
+                    "unit": "%",
+                    "value": 0.2126729
+                },
+                {
+                    "max": 1,
+                    "min": 0,
+                    "name": "green",
+                    "scale": "Linear",
+                    "type": "slider",
+                    "unit": "%",
+                    "value": 0.71515220000000002
+                },
+                {
+                    "max": 1,
+                    "min": 0,
+                    "name": "blue",
+                    "scale": "Linear",
+                    "type": "slider",
+                    "unit": "%",
+                    "value": 0.072175000000000003
+                }
+            ],
+            "tags": {
+            },
+            "uuid": "{b2a0eba1-3896-4f98-bbfa-a3fd673e5b02}",
+            "x": 1856.3516600265602,
+            "y": -657.49057104913686
+        },
+        {
+            "classIdentifier": "Crop",
+            "enabled": true,
+            "name": "Rogner",
+            "outputsEnabled": [
+                true
+            ],
+            "parameters": [
+            ],
+            "tags": {
+                "{64eb0b36-5d93-47cd-9d0b-e176849bf935}:0": {
+                    "ROI": "1564.84,361.742,560.903,1056.77"
+                }
+            },
+            "uuid": "{44070f8e-5d84-4ae5-8e29-44107429b5e7}",
+            "x": 1125.1091633466135,
+            "y": -513.12509960159355
+        },
+        {
+            "classIdentifier": "Blend",
+            "enabled": true,
+            "name": "Mélanger",
+            "outputsEnabled": [
+                true,
+                true,
+                true
+            ],
+            "parameters": [
+                {
+                    "currentValue": "Subtract",
+                    "name": "mode1",
+                    "type": "dropdown"
+                },
+                {
+                    "currentValue": "Multiply",
+                    "name": "mode2",
+                    "type": "dropdown"
+                },
+                {
+                    "currentValue": "Yes",
+                    "name": "outputHDR",
+                    "type": "dropdown"
+                }
+            ],
+            "tags": {
+            },
+            "uuid": "{b319eca3-1798-40ec-81a4-f4c6dec68c21}",
+            "x": 1484.4536520584327,
+            "y": -514.69428950863198
+        },
+        {
+            "classIdentifier": "Gradient Evaluation",
+            "enabled": true,
+            "name": "Évaluation gradient",
+            "outputsEnabled": [
+                true
+            ],
+            "parameters": [
+                {
+                    "max": 20,
+                    "min": 0,
+                    "name": "radius",
+                    "scale": "Linear",
+                    "type": "slider",
+                    "unit": "",
+                    "value": 3
+                },
+                {
+                    "max": 100,
+                    "min": 0,
+                    "name": "altitude",
+                    "scale": "Linear",
+                    "type": "slider",
+                    "unit": "",
+                    "value": 0
+                },
+                {
+                    "max": 8,
+                    "min": 0.125,
+                    "name": "pow",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "",
+                    "value": 0.5
+                }
+            ],
+            "tags": {
+                "{64eb0b36-5d93-47cd-9d0b-e176849bf935}:0": {
+                    "Points": "276.759,272.452;611.799,376.889;591.443,160.943;939.64,74.8614;846.689,654.911;583.403,578.24;222.003,503.379;57.1118,39.8846"
+                }
+            },
+            "uuid": "{ef445324-0975-45a4-94b0-db6dafcc16b5}",
+            "x": 1114.1248339973438,
+            "y": -354.63691899070386
+        },
+        {
+            "classIdentifier": "LRGB Compose",
+            "enabled": true,
+            "name": "Composition LRVB",
+            "outputsEnabled": [
+                true
+            ],
+            "parameters": [
+                {
+                    "currentValue": "No",
+                    "name": "outputHDR",
+                    "type": "dropdown"
+                }
+            ],
+            "tags": {
+                "{07b77691-75a0-4b6b-90a2-89186aab91b8}/master.fits:0": {
+                    "Points": "1525.19,1232.17;639.106,1054.59;267.391,299.023"
+                },
+                "{07b77691-75a0-4b6b-90a2-89186aab91b8}/master.fits:1": {
+                    "Points": "1524.96,1231.72;638.653,1054.37;267.195,298.681"
+                },
+                "{07b77691-75a0-4b6b-90a2-89186aab91b8}/master.fits:2": {
+                    "Points": "1524.96,1231.72;638.426,1054.14;266.962,298.312"
+                }
+            },
+            "uuid": "{64eb0b36-5d93-47cd-9d0b-e176849bf935}",
+            "x": 718.68897742363879,
+            "y": -481.74130146082337
+        },
+        {
+            "classIdentifier": "3-way Demultiplexer",
+            "enabled": true,
+            "name": "Démultiplexeur 1→ 3",
+            "outputsEnabled": [
+                true,
+                true,
+                true
+            ],
+            "parameters": [
+            ],
+            "tags": {
+            },
+            "uuid": "{0f7bc6f4-ec46-4506-8a09-05379c151706}",
+            "x": 356.20610889774235,
+            "y": -462.91102257636118
+        },
+        {
+            "classIdentifier": "Images",
+            "enabled": true,
+            "name": "Images",
+            "outputsEnabled": [
+                true
+            ],
+            "parameters": [
+                {
+                    "files": [
+                        "artifacts/master.fits"
+                    ],
+                    "name": "imageCollection",
+                    "type": "filesCollection"
+                },
+                {
+                    "currentValue": "HDR",
+                    "name": "colorSpace",
+                    "type": "dropdown"
+                }
+            ],
+            "tags": {
+            },
+            "uuid": "{07b77691-75a0-4b6b-90a2-89186aab91b8}",
+            "x": 45.506507304116859,
+            "y": -450.35750332005307
+        },
+        {
+            "classIdentifier": "White Balance",
+            "enabled": true,
+            "name": "Balance des blancs",
+            "outputsEnabled": [
+                true
+            ],
+            "parameters": [
+                {
+                    "max": 12000,
+                    "min": 2000,
+                    "name": "temperature",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "",
+                    "value": 6207.4774657485241
+                },
+                {
+                    "max": 2,
+                    "min": 0.5,
+                    "name": "tint",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "%",
+                    "value": 1
+                },
+                {
+                    "currentValue": "No",
+                    "name": "safe",
+                    "type": "dropdown"
+                }
+            ],
+            "tags": {
+            },
+            "uuid": "{b4e036bc-ed64-420d-ac5a-6401ef4047ec}",
+            "x": 2009.1945560187037,
+            "y": -385.25653287429412
+        },
+        {
+            "classIdentifier": "iGamma",
+            "enabled": true,
+            "name": "iGamma",
+            "outputsEnabled": [
+                true
+            ],
+            "parameters": [
+                {
+                    "max": 10,
+                    "min": 0.10000000000000001,
+                    "name": "gamma",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "",
+                    "value": 1.3496005104600499
+                },
+                {
+                    "max": 4096,
+                    "min": 1,
+                    "name": "logarithmicRange",
+                    "scale": "Logarithmic",
+                    "type": "slider",
+                    "unit": "EV",
+                    "value": 328.94736842105266
+                },
+                {
+                    "currentValue": "No",
+                    "name": "revert",
+                    "type": "dropdown"
+                }
+            ],
+            "tags": {
+            },
+            "uuid": "{13996c39-0516-4b0b-8494-b98dd4daab5b}",
+            "x": 3080.2627384863199,
+            "y": -407.88607839845065
+        }
+    ],
+    "notes": "",
+    "projectName": "Iris Nebula - NGC7023"
+}
